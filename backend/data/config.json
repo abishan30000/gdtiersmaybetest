@@ -1,0 +1,22 @@
+{
+  "siteTitle": "Goober Dash Rankings",
+  "aspects": ["Movement", "Attack", "Defense", "Utility"],
+  "aspectWeights": {
+    "Movement": 1.5,
+    "Attack": 1.2,
+    "Defense": 1.0,
+    "Utility": 0.8
+  },
+  "defaultAspectValue": 3,
+  "adminCredentials": {
+    "username": "admin",
+    "password": "gooberpass"
+  },
+  "secretTapCount": 7,
+  "secretTapWindowSeconds": 3,
+  "assetsFolder": "assets",
+  "placeholderImage": "assets/questionmark.png",
+  "discordServerLink": "https://discord.gg/yourlink",
+  "allowConfigEdit": true,
+  "baseUrl": ""
+}

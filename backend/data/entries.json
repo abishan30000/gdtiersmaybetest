@@ -1,0 +1,66 @@
+[
+  {
+    "id": "601c01f7-bda2-4445-ae76-65aa36064be1",
+    "name": "GooberPrime",
+    "image": "assets/questionmark.png",
+    "aspects": {
+      "Movement": "HT2",
+      "Attack": "HT3",
+      "Defense": "HT2",
+      "Utility": "HT3"
+    },
+    "notes": "Sample entry",
+    "computed": {
+      "score": 3.56,
+      "percent": 71
+    }
+  },
+  {
+    "id": "8ddde735-e16d-4f40-b710-26d4fe6c9819",
+    "name": "DashWiz",
+    "image": "assets/questionmark.png",
+    "aspects": {
+      "Movement": "HT1",
+      "Attack": "HT3",
+      "Defense": "HT4",
+      "Utility": "HT2"
+    },
+    "notes": "Sample entry",
+    "computed": {
+      "score": 3.62,
+      "percent": 72
+    }
+  },
+  {
+    "id": "11c31808-31ab-41db-8a5a-413562a7b416",
+    "name": "Crumbler",
+    "image": "assets/questionmark.png",
+    "aspects": {
+      "Movement": "HT4",
+      "Attack": "HT4",
+      "Defense": "HT3",
+      "Utility": "LT5"
+    },
+    "notes": "Sample entry",
+    "computed": {
+      "score": 2.04,
+      "percent": 41
+    }
+  },
+  {
+    "id": "64ced3a0-1f33-48e2-ab13-ac65723d2d0e",
+    "name": "PixelGoob",
+    "image": "assets/questionmark.png",
+    "aspects": {
+      "Movement": "HT3",
+      "Attack": "HT2",
+      "Defense": "HT3",
+      "Utility": "HT4"
+    },
+    "notes": "Sample entry",
+    "computed": {
+      "score": 3.09,
+      "percent": 62
+    }
+  }
+]
